@@ -58,4 +58,5 @@ rmse = np.sqrt(mse)
 
 print(f'MAE: {mae}, MSE: {mse}, RMSE: {rmse}')
 ```
+# Output of the Project
 ![Output of the Project](Output.png)
